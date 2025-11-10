@@ -25,7 +25,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br />
 ![ATMEGA128A](https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/32749.jpg)
-![STM32F411ret6](https://www.st.com/bin/ecommerce/api/image.PF260320.en.feature-description-include-personalized-no-cpn-medium.jpg)
+![STM32F411ret6](https://hubtronics.in/image/cache/catalog/devkits/Nucleo-F411RE-550x550.jpg)
 
 <!--
 **Viiiin94/Viiiin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
