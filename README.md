@@ -26,4 +26,4 @@
 <br />
 ![ATMEGA128A](https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/32749.jpg)
 ![STM32F411ret6](https://hubtronics.in/image/cache/catalog/devkits/Nucleo-F411RE-550x550.jpg)
-![BASYS3](https://www.amd.com/content/dam/amd/en/images/products/boards/2410750-artix-7-xc7a35t-board-product.jpg)
+![BASYS3](https://instock.pk/pub/media/catalog/product/cache/df03ccf4bae2e9a360be5b342513ca0d/b/a/basys3_obl_2_academic_600__55885.1458770328.1280.1280.jpg)
