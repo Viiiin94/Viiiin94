@@ -23,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+Verilog...
 <br />
 ![ATMEGA128A](https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/32749.jpg)
 ![STM32F411ret6](https://hubtronics.in/image/cache/catalog/devkits/Nucleo-F411RE-550x550.jpg)
