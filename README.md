@@ -25,7 +25,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-36454F?style=for-the-badge&logo=verilog&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
-Verilog...
 <br />
 ![ATMEGA128A](https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/32749.jpg)
 ![STM32F411ret6](https://hubtronics.in/image/cache/catalog/devkits/Nucleo-F411RE-550x550.jpg)
