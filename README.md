@@ -2,6 +2,7 @@
 
 안녕하세요 웹/앱 프론트엔드 개발자 유영빈입니다.
 현재 대한상공회의소에서 반도체 AI 과정에 있습니다.
+더 나아가 반도체 설계 및 검증 엔지니어가 되기위해 역량을 키워나가겠습니다.
 
 ### 온디바이스 반도체 AI 과정에서 얻은 역량
 
@@ -11,7 +12,7 @@
 4. MCU 기반 실시간 임베디드 제어: STM32 환경에서 C언어와 HAL 라이브러리, RTOS를 활용하여 실시간 멀티태스킹 임베디드 시스템을 안정적으로 구현하는 펌웨어 개발 능력을 갖췄습니다.
 5. 소프트웨어와 하드웨어의 융합: 웹 단위의 형상 관리(Git) 및 시스템 구조화 경험을 하드웨어 설계 환경에 접목하여, 효율적인 협업 체계를 구축하고 완성도 높은 시스템을 통합(Integration)해 내는 개발자로 성장했습니다.
 
-### 임베디드 시스템
+### 기술 스택
 ![Verilog](https://img.shields.io/badge/Verilog-36454F?style=for-the-badge&logo=verilog&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,8 +20,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-000000?style=for-the-badge&logo=xilinx&logoColor=white)
 
-<br />
-![ATMEGA128A](https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/32749.jpg)
-![STM32F411ret6](https://hubtronics.in/image/cache/catalog/devkits/Nucleo-F411RE-550x550.jpg)
-![BASYS3](https://instock.pk/pub/media/catalog/product/cache/df03ccf4bae2e9a360be5b342513ca0d/b/a/basys3_obl_2_academic_600__55885.1458770328.1280.1280.jpg)
+### 사용한 보드
+![ATmega128A](https://img.shields.io/badge/ATmega128A-005285?style=for-the-badge&logo=microchip&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3-00A3E0?style=for-the-badge&logo=xilinx&logoColor=white)
