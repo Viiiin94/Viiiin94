@@ -13,7 +13,7 @@
 5. 소프트웨어와 하드웨어의 융합: 웹 단위의 형상 관리(Git) 및 시스템 구조화 경험을 하드웨어 설계 환경에 접목하여, 효율적인 협업 체계를 구축하고 완성도 높은 시스템을 통합(Integration)해 내는 개발자로 성장했습니다.
 
 ### 프로젝트
-![AXI DMA](https://github.com/Secure-Memory-System)
+(https://github.com/Secure-Memory-System)
 
 ### 기술 스택
 ![Verilog](https://img.shields.io/badge/Verilog-36454F?style=for-the-badge&logo=verilog&logoColor=white)
