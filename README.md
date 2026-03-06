@@ -1,7 +1,7 @@
 ## 🙋‍♂️ 자기소개
 
 안녕하세요 미래 반도체 설계 및 검증 엔지니어가 될 <b>유영빈</b>입니다.<br />
-[이력서 보러가기](https://www.notion.so/1a2c928d858c4087a7baa45c94d72643?source=copy_link)
+[이력서](https://www.notion.so/1a2c928d858c4087a7baa45c94d72643?source=copy_link) <= 이력서 보러가기
 
 ### 🏢 Experience
 - 가천대학교 IT전자공학과 졸업\(2018.03 ~ 2020.08\)
