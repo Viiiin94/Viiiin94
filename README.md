@@ -1,19 +1,19 @@
-## Hi there 👋
+## 자기소개
 
 안녕하세요 미래 반도체 설계 및 검증 엔지니어가 될 <b>유영빈</b>입니다.<br />
-현재 대한상공회의소에서 반도체 AI 과정에 있습니다.<br />
-더 나아가 반도체 설계 및 검증 엔지니어가 되기위해 역량을 키워나가겠습니다.<br />
+[이력서 보러가기](https://www.notion.so/1a2c928d858c4087a7baa45c94d72643?source=copy_link)
 
-### 온디바이스 반도체 AI 과정에서 얻은 역량
-
-1. 시스템 통합 역량 강화: 프론트엔드 개발 실무를 넘어 시스템 최하단(RTL)부터 디바이스 제어까지 아우르는 종합적인 엔지니어가 되기 위해 대한상공회의소의 '온디바이스 AI 과정'을 수강하고 있습니다.
-2. FPGA 하드웨어 설계 및 분석: Basys3 보드와 Vivado 환경에서 Verilog HDL을 활용해 하드웨어 로직을 설계하고, 면적과 타이밍(PPA) 간의 트레이드오프를 정량적으로 분석하는 최적화 역량을 습득했습니다.
-3. 아키텍처 및 검증 전문성: AXI4 프로토콜 기반의 DMA IP를 직접 설계하며 하드웨어 아키텍처를 깊이 이해하고, Testbench와 ILA를 통한 꼼꼼한 실검증 능력을 길렀습니다.
-4. MCU 기반 실시간 임베디드 제어: STM32 환경에서 C언어와 HAL 라이브러리, RTOS를 활용하여 실시간 멀티태스킹 임베디드 시스템을 안정적으로 구현하는 펌웨어 개발 능력을 갖췄습니다.
-5. 소프트웨어와 하드웨어의 융합: 웹 단위의 형상 관리(Git) 및 시스템 구조화 경험을 하드웨어 설계 환경에 접목하여, 효율적인 협업 체계를 구축하고 완성도 높은 시스템을 통합(Integration)해 내는 개발자로 성장했습니다.
+### 경력 및 학력
+- 가천대학교 IT전자공학과 졸업\(2018.03 ~ 2020.08\)
+- \(주\)파이웍스 프론트엔드 개발자\(2024.01 ~ 2025.06\)
+- 대한상공회의소 경기인력개발원 온디바이스 AI 반도체 설계\(2025.09 ~ 2026.04\)
 
 ### 프로젝트
-(https://github.com/Secure-Memory-System)
+[AXI DMA](https://github.com/Secure-Memory-System)<br />
+[다중 기능 시계](https://github.com/multifunctionwatch/multi_function_watch)<br />
+[로켓 발사 시스템](https://github.com/Viiiin94/Physical-Layer-Security)<br />
+[자율주행자동차](https://www.notion.so/5-RC-CAR-29a402f9faac8018a66ac680cf6dfbfd?source=copy_link)<br />
+[엘리베이터](https://github.com/Viiiin94/AI_Ondevice_Elevator_Project)
 
 ### 기술 스택
 ![Verilog](https://img.shields.io/badge/Verilog-36454F?style=for-the-badge&logo=verilog&logoColor=white)
@@ -29,3 +29,6 @@
 ![ATmega128A](https://img.shields.io/badge/ATmega128A-005285?style=for-the-badge&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Basys3](https://img.shields.io/badge/Basys3-00A3E0?style=for-the-badge&logo=xilinx&logoColor=white)
+
+### 학습
+[개인 학습 공간](https://www.notion.so/AI-270253acced68029adb0d22baa832487?source=copy_link)
