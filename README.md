@@ -1,4 +1,4 @@
-## 자기소개
+## 🙋‍♂️자기소개
 
 안녕하세요 미래 반도체 설계 및 검증 엔지니어가 될 <b>유영빈</b>입니다.<br />
 [이력서 보러가기](https://www.notion.so/1a2c928d858c4087a7baa45c94d72643?source=copy_link)
@@ -9,11 +9,11 @@
 - 대한상공회의소 경기인력개발원 온디바이스 AI 반도체 설계\(2025.09 ~ 2026.04\)
 
 ### 프로젝트
-[AXI DMA](https://github.com/Secure-Memory-System)<br />
-[다중 기능 시계](https://github.com/multifunctionwatch/multi_function_watch)<br />
-[로켓 발사 시스템](https://github.com/Viiiin94/Physical-Layer-Security)<br />
-[자율주행자동차](https://www.notion.so/5-RC-CAR-29a402f9faac8018a66ac680cf6dfbfd?source=copy_link)<br />
-[엘리베이터](https://github.com/Viiiin94/AI_Ondevice_Elevator_Project)
+- [AXI DMA](https://github.com/Secure-Memory-System)<br />
+- [다중 기능 시계](https://github.com/multifunctionwatch/multi_function_watch)<br />
+- [로켓 발사 시스템](https://github.com/Viiiin94/Physical-Layer-Security)<br />
+- [자율주행자동차](https://www.notion.so/5-RC-CAR-29a402f9faac8018a66ac680cf6dfbfd?source=copy_link)<br />
+- [엘리베이터](https://github.com/Viiiin94/AI_Ondevice_Elevator_Project)
 
 ### 기술 스택
 ![Verilog](https://img.shields.io/badge/Verilog-36454F?style=for-the-badge&logo=verilog&logoColor=white)
